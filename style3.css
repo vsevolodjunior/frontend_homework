@@ -1,0 +1,47 @@
+
+img{
+	height: 400px;
+	width: 200;
+	margin-left: 650px;
+}
+.name {
+	color: black;
+	margin-left: 720px;
+	
+}
+.education{
+	margin-left: 170px;
+
+}
+.goal{
+    margin-left: 170px;
+    margin-bottom: 50px;
+}
+.list{
+    margin-left: 170px;
+}
+.phone{
+	margin-left: 170px;
+
+}
+.number{
+    margin-left: 170px;
+}
+.profile{
+	margin-left: 170px;
+
+}
+.vk{
+	margin-left: 170px;
+
+}
+.fidback{
+	margin-left: 170px;
+}
+.fbunsver{
+	margin-left: 170px;
+
+}
+hr{
+	color: red;
+}

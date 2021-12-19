@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	/*background-color: #282828;*/
+}
+
+/*Background*/
+
+.background {
+	background-image: url(././images/homework3_anusbonus/background.jpg);
+	height: 1000px;
+	widows: 960px;
+}
+
+
+/*
+.background {
+	text-align: center;
+}*/
